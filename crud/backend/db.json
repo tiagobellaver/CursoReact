@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Beatriz Gomes",
+      "email": "bg@bg.com.br"
+    },
+    {
+      "name": "Tiago Ferraresi Bellaver",
+      "email": "tfbellaver@gmail.com",
+      "id": 3
+    }
+  ]
+}
